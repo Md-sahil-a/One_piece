@@ -1,2 +1,2 @@
 # The_web
-Web development 
+Practising Css skills 
