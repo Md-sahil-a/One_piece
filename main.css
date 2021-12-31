@@ -1,4 +1,10 @@
+body {
+    background-image: url('onepiece.jpg');
+    background-size: cover;
+}
+
 .awesome-text {
-    color: black;
+    color: red;
     font-family: 'Licorice', cursive;
+    text-align: center;
 }
